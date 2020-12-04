@@ -1,0 +1,10 @@
+C:\Users\Ikedinachim Collins\source\repos\statistics\statistics\obj\Debug\statistics.csprojAssemblyReference.cache
+C:\Users\Ikedinachim Collins\source\repos\statistics\statistics\obj\Debug\statistics.Form1.resources
+C:\Users\Ikedinachim Collins\source\repos\statistics\statistics\obj\Debug\statistics.Properties.Resources.resources
+C:\Users\Ikedinachim Collins\source\repos\statistics\statistics\obj\Debug\statistics.csproj.GenerateResource.cache
+C:\Users\Ikedinachim Collins\source\repos\statistics\statistics\obj\Debug\statistics.csproj.CoreCompileInputs.cache
+C:\Users\Ikedinachim Collins\source\repos\statistics\statistics\bin\Debug\statistics.exe.config
+C:\Users\Ikedinachim Collins\source\repos\statistics\statistics\bin\Debug\statistics.exe
+C:\Users\Ikedinachim Collins\source\repos\statistics\statistics\bin\Debug\statistics.pdb
+C:\Users\Ikedinachim Collins\source\repos\statistics\statistics\obj\Debug\statistics.exe
+C:\Users\Ikedinachim Collins\source\repos\statistics\statistics\obj\Debug\statistics.pdb
