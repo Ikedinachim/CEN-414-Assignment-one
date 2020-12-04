@@ -1,0 +1,10 @@
+C:\Users\Ikedinachim Collins\source\repos\pounds_kilograms\pounds_kilograms\bin\Debug\pounds_kilograms.exe.config
+C:\Users\Ikedinachim Collins\source\repos\pounds_kilograms\pounds_kilograms\bin\Debug\pounds_kilograms.exe
+C:\Users\Ikedinachim Collins\source\repos\pounds_kilograms\pounds_kilograms\bin\Debug\pounds_kilograms.pdb
+C:\Users\Ikedinachim Collins\source\repos\pounds_kilograms\pounds_kilograms\obj\Debug\pounds_kilograms.csprojAssemblyReference.cache
+C:\Users\Ikedinachim Collins\source\repos\pounds_kilograms\pounds_kilograms\obj\Debug\pounds_kilograms.Form1.resources
+C:\Users\Ikedinachim Collins\source\repos\pounds_kilograms\pounds_kilograms\obj\Debug\pounds_kilograms.Properties.Resources.resources
+C:\Users\Ikedinachim Collins\source\repos\pounds_kilograms\pounds_kilograms\obj\Debug\pounds_kilograms.csproj.GenerateResource.cache
+C:\Users\Ikedinachim Collins\source\repos\pounds_kilograms\pounds_kilograms\obj\Debug\pounds_kilograms.csproj.CoreCompileInputs.cache
+C:\Users\Ikedinachim Collins\source\repos\pounds_kilograms\pounds_kilograms\obj\Debug\pounds_kilograms.exe
+C:\Users\Ikedinachim Collins\source\repos\pounds_kilograms\pounds_kilograms\obj\Debug\pounds_kilograms.pdb
